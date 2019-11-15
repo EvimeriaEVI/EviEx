@@ -1,7 +1,7 @@
 <html><head></head><body><link rel="stylesheet" type="text/css" href="vostok.css" id="_theme"><div id="_html" class="markdown-theme"><span class="octicon octicon-link"></span></a>EviEx Exchange User API</h1>
 <p>API for EviEx Exchange.</p>
 <h2 id="version-2-2-3"><a class="anchor" name="version-2-2-3" href="#version-2-2-3"><span class="octicon octicon-link"></span></a>Version: 2.2.3</h2>
-<p><strong>Contact information:</strong><br>Evimeria Team<br><a href="https://www.eviex.io">https://www.eviex.online</a><br><a href="mailto:info@evimeria.io">info@evimeria.io</a>  </p>
+<p><strong>Contact information:</strong><br>Evimeria Team<br><a href="https://www.eviex.online">https://www.eviex.online</a><br><a href="mailto:info@evimeria.io">info@evimeria.io</a>  </p>
 <p><strong>License:</strong> <a href="https://www.eviex.online">https://www.eviex.online</a></p>
 <h3 id="security"><a class="anchor" name="security" href="#security"><span class="octicon octicon-link"></span></a>Security</h3>
 <p><strong>Bearer</strong>  </p>
